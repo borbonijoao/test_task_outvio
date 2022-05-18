@@ -2,7 +2,7 @@ Hey,
 
 This project is a technical test that is divided into two tasks:
 
-1. Data Analysis
+## Data Analysis
 
 You are given 3 data sets:
 - Shipments
@@ -14,4 +14,4 @@ The minimum requirement for the script is to analyze the data and answer followi
 - Average delivery time per shipping method
 - Average products per order
 
-2. Business strategy
+## Business strategy
